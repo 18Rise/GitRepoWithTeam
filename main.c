@@ -19,4 +19,21 @@ int main()
     return 0;
 }
 
-// output\main.exe
+/*
+gcc main.c add.c sub.c mul.c div.c -o main.exe
+
+main.exe
+
+git clone https://github.com/18Rise/GitRepoWithTeam/
+cd GitRepoWithTeam
+
+git checkout -b namaBranch
+
+git status
+
+git add nama_file
+
+git commit -m "pesan"
+
+git push origin feature-namaAnda
+*/
